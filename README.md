@@ -5,4 +5,4 @@ Project: Investigating Respresentations of Identity that Exist on Distributed Pl
 * explore legal aspects of the project - 
     -develop modules that could be used in different artist-scientist collaborations, e.g. open source and creative commons automated tooling 
 
-* showtime 
+* workshop/talk at Media Lab?  

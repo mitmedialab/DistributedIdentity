@@ -1,5 +1,5 @@
 # MIT Distributed Identity Project
-[DistributedIdentity.Net](http://distributedidentity.org)
+[DistributedIdentity.Net](http://distributedidentity.net)
 
 
 **Project: Investigating Respresentations of Identity that Exist on Distributed Platforms**

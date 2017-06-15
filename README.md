@@ -1,5 +1,6 @@
 # MIT Distributed Identity Project
 [DistributedIdentity.Net](http://distributedidentity.net)
+![vcrop-2017-06-14-2](https://user-images.githubusercontent.com/2357755/27161914-632bd772-514c-11e7-8edb-6c0da912ae64.jpg)
 
 
 **Project: Investigating Respresentations of Identity that Exist on Distributed Platforms**
